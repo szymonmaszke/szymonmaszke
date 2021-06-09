@@ -13,7 +13,7 @@ Hey, I'm Simon, from time to time I create open source projects (mostly Machine 
 
 ### :office: Work
 
-__Head Of Content [@AiCore](https://github.com/AI-Core)__ where I am responsible for (amongst other things):
+__Head Of Content [@AiCore](https://github.com/AI-Core)__ where I am responsible for (among other things):
 - Creating lessons and teaching materials about Machine Learning, Deep Learning, Deployment etc.
 - Teaching students and helping in their AI journey (projects, consulting etc.)
 

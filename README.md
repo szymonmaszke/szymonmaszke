@@ -22,6 +22,7 @@ __Head Of Content [@AiCore](https://github.com/AI-Core)__ where I am responsible
 Also running consulting for companies/individuals (see links for more details):
 - [`2h` session](https://calendly.com/maszke/consult2) (recommended for longer problems and companies)
 - [`1h` session](https://calendly.com/maszke/consult1) (recommended for shorter problems and individuals)
+- [`30min` session](https://calendly.com/maszke/consult3) (for high level overview of a topic and guidance)
 
 For custom requests (longer/shorter sessions) please message [consult@maszke.co](mailto:consult@maszke.co).
 

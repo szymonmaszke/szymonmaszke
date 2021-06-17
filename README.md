@@ -17,7 +17,7 @@ __Head Of Content [@AiCore](https://github.com/AI-Core)__ where I am responsible
 - Creating lessons and teaching materials about Machine Learning, Deep Learning, Deployment etc.
 - Teaching students and helping in their AI journey (projects, consulting etc.)
 
-### :heavy_check_mark: Consulting
+### [:heavy_check_mark: Consulting](https://calendly.com/maszke)
 
 Also running consulting for companies/individuals (see links for more details):
 - [`2h` session](https://calendly.com/maszke/consult2) (recommended for longer problems and companies)

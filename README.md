@@ -11,12 +11,6 @@ Hey, I'm Simon, from time to time I create open source projects (mostly Machine 
 [![kaggle](https://img.shields.io/badge/-KAGGLE-42a5f5?style=for-the-badge)](https://www.kaggle.com/szymonmaszke)
 
 
-### :office: Work
-
-__Head Of Content [@AiCore](https://github.com/AI-Core)__ where I am responsible for (among other things):
-- Creating lessons and teaching materials about Machine Learning, Deep Learning, Deployment etc.
-- Teaching students and helping in their AI journey (projects, consulting etc.)
-
 ### [:heavy_check_mark: Consulting](https://calendly.com/maszke)
 
 Also running consulting for companies/individuals (see links for more details):

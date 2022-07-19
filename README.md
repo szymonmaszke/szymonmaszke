@@ -14,8 +14,8 @@ Hey, I'm Simon, from time to time I create open source projects (mostly Machine 
 ### [:heavy_check_mark: Consulting](https://calendly.com/maszke)
 
 Also running consulting for companies/individuals (see links for more details):
-- [`2h` session](https://calendly.com/maszke/consult2) (recommended for longer problems and companies)
-- [`1h` session](https://calendly.com/maszke/consult1) (recommended for shorter problems and individuals)
+- [`2h` session](https://calendly.com/maszke/consult2) (recommended for harder problems and companies)
+- [`1h` session](https://calendly.com/maszke/consult1) (recommended for simpler problems and individuals)
 - [`30min` session](https://calendly.com/maszke/consult3) (for high level overview of a topic and guidance)
 
 For custom requests (longer/shorter sessions) please message [consult@maszke.co](mailto:consult@maszke.co).

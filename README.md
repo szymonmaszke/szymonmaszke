@@ -1,4 +1,4 @@
-### :wave: About me
+## :wave: Hi there!
 
 Hey, I'm Simon, from time to time I create open source projects (mostly Machine Learning) and try to help on [StackOverflow](https://stackoverflow.com/users/10886420/szymon-maszke).
 
@@ -10,4 +10,15 @@ Hey, I'm Simon, from time to time I create open source projects (mostly Machine 
 [![scholar](https://img.shields.io/badge/-SCHOLAR-009688?style=for-the-badge)](https://scholar.google.com/citations?user=5jxmsXkAAAAJ&hl=pl)
 [![kaggle](https://img.shields.io/badge/-KAGGLE-42a5f5?style=for-the-badge)](https://www.kaggle.com/szymonmaszke)
 
-Currently CTO @ InovIntell, also providing limited consultancy regarding ML/DL/Ops/Architecture/Code Quality Reviewing/General Direction, contact via [github@maszke.co](mailto:github@maszke.co) if interested.
+Currently CTO @ InovIntell, but also providing limited consultancy regarding:
+
+- General project direction 
+- Architecture and code design
+- Domain knowledge (e.g. machine learning, deep learning, devops etc.)
+
+## Contact
+
+Please do not hesitate to contact via:
+
+- [__github@maszke.co__](mailto:github@maszke.co) - regarding open source projects
+- [__consulting@maszke.co__](mailto:consulting@maszke.co) - regarding paid consulting

@@ -18,7 +18,7 @@ Currently CTO @ InovIntell, but also providing limited consultancy regarding:
 
 ## Contact
 
-Please do not hesitate to contact via:
+Please do not hesitate to contact me via:
 
 - [__github@maszke.co__](mailto:github@maszke.co) - regarding open source projects
 - [__consulting@maszke.co__](mailto:consulting@maszke.co) - regarding paid consulting

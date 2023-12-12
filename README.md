@@ -10,12 +10,6 @@ Hey, I'm Simon, from time to time I create open source projects (mostly Machine 
 [![scholar](https://img.shields.io/badge/-SCHOLAR-009688?style=for-the-badge)](https://scholar.google.com/citations?user=5jxmsXkAAAAJ&hl=pl)
 [![kaggle](https://img.shields.io/badge/-KAGGLE-42a5f5?style=for-the-badge)](https://www.kaggle.com/szymonmaszke)
 
-Currently CTO @ InovIntell, but also providing limited consultancy regarding:
-
-- General project direction 
-- Architecture and code design
-- Domain knowledge (e.g. machine learning, deep learning, devops etc.)
-
 ## Contact
 
 Please do not hesitate to contact me via:
